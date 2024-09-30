@@ -1,0 +1,210 @@
+body {
+    color: #141414;
+    font-family: 'Nunito Sans';
+}
+
+h1 {
+    font-size: 44pt;
+}
+
+p {
+    font-size: 20pt;
+    word-spacing: -4px;
+}
+
+.nav-link {
+    color: #000000;
+}
+
+.nav-link:active {
+    color: #10C9C3;
+}
+
+.nav-link:hover {
+    color: #10C9C3;
+}
+
+.nav-item {
+    padding: 30px 2px;
+    margin-top: 2px;
+}
+
+.nav {
+    margin-right: 50px;
+}
+
+.navbar-brand {
+    padding-left: 100px;
+}
+
+nav {
+    font-family: 'Nunito Sans';
+    font-size: 16pt;
+    background-color: #e7e7e7;
+    font-weight: 600;
+}
+
+.mt-6 {
+    margin-top: 180px
+}
+
+.mt-7 {
+    margin-top: 205px
+}
+
+.mx-6 {
+    margin-left: 115px;
+}
+
+.mt-btn {
+    margin-top: 25px;
+}
+
+.stats {
+    font-size: 14pt;
+    font-weight: bold;
+    word-spacing: normal;
+    letter-spacing: 1px;
+        font-family: 'Nunito Sans';
+}
+
+.table {
+    border-collapse: separate;
+    border-spacing:0 20px;
+}
+
+
+button {
+    background-color: #10C9C3;
+    border-color: transparent;
+    color: white;
+    padding: 22px 65px;
+    font-size: 14pt;
+    letter-spacing: 1px;
+}
+
+.spacing {
+    padding-bottom: 300px;
+}
+
+h2 {
+    font-size: 32pt;
+    letter-spacing: 2px;
+}
+
+.mnegative {
+    margin-top: -18px;
+}
+
+.img1 {
+    background-image: url(img/aidan-hancock-8RU4OuA6Yug-unsplash.png);
+    background-size: cover;
+    height: 640px
+}
+
+.counting > div > h2 {
+    font-size: 18pt;
+    font-family: 'Montserrat';
+}
+
+.container-fluid{
+    padding-left: 0rem;
+    padding-right: 0rem;
+    overflow: hidden;
+  }
+
+.product img {
+    width: 105.4%;
+    height: 100%;
+
+}
+
+@keyframes transition {
+    0% {opacity: 100%;}
+    100% {opacity: 20%;}
+}
+
+.product img:hover {
+    animation: transition 0.4s;
+    opacity: 20%;
+}
+
+.descript {
+    font-size: 14pt;
+    font-family: 'Nunito Sans';
+    font-weight: bold;
+    letter-spacing: 1px;
+    padding-bottom: 10px;
+}
+
+.services {
+    font-size: 15pt;
+    font-family: 'Montserrat';
+    font-weight: 550;
+    opacity: 70%;
+    word-spacing: 0px;
+}
+
+.quote {
+    font-family: 'Montserrat';
+    color: #FFFFFF;
+    font-size: 26pt;
+    letter-spacing: -0.6px;
+    white-space: pre;
+    line-height: 50px;
+    padding: 0px;
+    text-align: center;
+    word-spacing: 1px;
+}
+
+.michaelhopkins {
+    font-family: 'Montserrat';
+    letter-spacing: 0px;
+    color: white;
+    font-weight: 550;
+    font-size: 14pt;
+    white-space: pre;
+    padding: 0px;
+    text-align: center;
+}
+
+.name{
+    height: 65px;
+    font-family: 'Nunito Sans';
+    border-color: white;
+    width: 450px;
+    margin-bottom: 40px;
+}
+
+.email {
+    width: 250px;
+    padding: 20px;
+    font-size: 12pt;
+    margin-bottom: 140px
+}
+
+.footer {
+    font-size: 20pt;
+}
+
+.about {
+    font-size: 16pt;
+    font-family: 'Nunito Sans';
+    opacity: 70%;
+}
+
+.links {
+    font-size: 16pt;
+    font-family: 'Nunito Sans';
+    opacity: 70%;
+    margin-left: -60px
+}
+
+/*
+Color Palette:
+Highlight - #10C9C3
+Background - #787878
+Font - #141414
+Background2 - #F5F5F5
+Background3 - #FFFFFF
+*/
